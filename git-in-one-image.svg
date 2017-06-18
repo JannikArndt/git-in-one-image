@@ -524,4 +524,8 @@
     <path fill="none" stroke="#000" stroke-width="2" d="M988.3 120V38.4h706V120"/>
     <path fill="none" stroke="#000" stroke-width="2" d="M941.4 120V38.4H3V120"/>
   </g>
+  <g id="source-and-license">
+      <text x="30px" y="1080px">https://github.com/JannikArndt/git-in-one-image</text>
+      <text x="310px" y="1080px">CC-BY-4</text>
+  </g>
 </svg>
