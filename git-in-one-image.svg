@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" stroke-miterlimit="1.5" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1700 1100" clip-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"  font-family="'Arial'" font-size="10">
+  <g id="mirror">
+    <g id="master">
+      <g id="header">
+        <rect width="77" height="19" x="1571.5" y="160.4" fill="#0dcaf2" stroke="#000" stroke-width="2"/>
+        <text x="1575" y="173.6">branch “master”</text>
+      </g>
+      <g id="commits" stroke="#000" stroke-width="2">
+        <g>
+          <rect width="44.1" height="33" x="1580" y="1064.2" fill="#ccc"/>
+          <path fill="#999" d="M1580 1064.2l15.8-16h44l-15.8 16h-44z"/>
+          <path fill="#737373" d="M1624 1097l16-15.8v-33l-16 16v33z"/>
+        </g>
+        <g>
+          <rect width="44.1" height="33" x="1580" y="1015.6" fill="#ccc"/>
+          <path fill="#999" d="M1580 1015.6l15.8-16h44l-15.8 16h-44z"/>
+          <path fill="#737373" d="M1624 1048.6l16-16v-33l-16 16v33z"/>
+        </g>
+        <g>
+          <rect width="44.1" height="33" x="1580" y="967.1" fill="#ccc"/>
+          <path fill="#999" d="M1580 967l15.8-15.8h44l-15.8 16h-44z"/>
+          <path fill="#737373" d="M1624 1000l16-16v-32.8l-16 16v32.8z"/>
+        </g>
+        <g>
+          <rect width="44.1" height="33" x="1580" y="918.6" fill="#ccc"/>
+          <path fill="#999" d="M1580 918.6l15.8-16h44l-15.8 16h-44z"/>
+          <path fill="#737373" d="M1624 951.5l16-16v-32.8l-16 16v32.8z"/>
+        </g>
+      </g>
+      <g id="tag">
+        <g>
+          <rect width="25.5" height="19" x="1668.7" y="977.3" fill="#0dcaf2" stroke="#000" stroke-width="2"/>
+          <text x="1674.6" y="990.5">tag</text>
+        </g>
+        <path fill="#ccc" stroke="#000" stroke-width="2" d="M1672 952.3l8.3 14.2-24.7 14.3-11-3.2 2.8-11 24.7-14.3zm-20.3 18c1.2-.6 2.8 0 3.6 1.2.7 1.3.3 3-1 3.6-1 1-2.7 1-3.5-1-.7-1-.3-3 1-3z"/>
+      </g>
+      <g id="lines" fill="none" stroke="#000" stroke-width="2">
+        <path d="M1610 179.5v731"/>
+        <path d="M1610 959.2v-7.7"/>
+        <path d="M1610 1007.7v-7.7"/>
+        <path d="M1610 1056v-7.7"/>
+      </g>
+    </g>
+    <g id="dev">
+      <g id="header1">
+        <rect width="63.8" height="19" x="1486.5" y="160.3" fill="#0dcaf2" stroke="#000" stroke-width="2"/>
+        <text x="1490" y="173.6">branch “dev”</text>
+      </g>
+      <g id="commits1" stroke="#000" stroke-width="2">
+        <g>
+          <rect width="43.3" height="32.3" x="1488.8" y="797.4" fill="#ccc"/>
+          <path fill="#999" d="M1488.8 797.4l15.6-15.6h43.3l-15.6 15.6h-43z"/>
+          <path fill="#737373" d="M1532 829.8l15.7-15.7v-32l-15.7 16v32z"/>
+        </g>
+        <g>
+          <rect width="43.3" height="32.3" x="1488.8" y="749.7" fill="#ccc"/>
+          <path fill="#999" d="M1488.8 749.7l15.6-15.6h43.3l-15.7 16h-43z"/>
+          <path fill="#737373" d="M1532 782l15.7-15.5V734l-15.6 15.7V782z"/>
+        </g>
+        <g>
+          <rect width="43.3" height="32.3" x="1488.8" y="702.1" fill="#ccc"/>
+          <path fill="#999" d="M1488.8 702l15.6-15.6h43.3L1532 702h-43z"/>
+          <path fill="#737373" d="M1532 734.4l15.7-15.6v-32.4L1532 702v32.4z"/>
+        </g>
+        <g>
+          <rect width="43.3" height="32.3" x="1488.8" y="625.6" fill="#ccc"/>
+          <path fill="#999" d="M1488.8 625.6l15.6-15.6h43.3l-15.6 15.6h-43z"/>
+          <path fill="#737373" d="M1532 658l15.7-15.7V610l-15.6 15.6V658z"/>
+        </g>
+        <g>
+          <rect width="43.3" height="32.3" x="1488.8" y="578" fill="#ccc"/>
+          <path fill="#999" d="M1488.8 578l15.6-15.7h43.3L1532 578h-43z"/>
+          <path fill="#737373" d="M1532 610.3l15.7-15.6v-32.4L1532 578v32.3z"/>
+        </g>
+        <g>
+          <rect width="43.3" height="32.3" x="1488.8" y="530.3" fill="#ccc"/>
+          <path fill="#999" d="M1488.8 530.3l15.6-15.7h43.3l-15.6 15.7h-43z"/>
+          <path fill="#737373" d="M1532 562.6l15.7-15.6v-32.4l-15.6 15.7v32.3z"/>
+        </g>
+      </g>
+      <g id="lines1" fill="none" stroke="#000" stroke-width="2">
+        <path d="M1518.2 742v-7.6"/>
+        <path d="M1518.2 789.6V782"/>
+        <path d="M1518.2 658v36.2"/>
+        <path d="M1518.2 617.8v-7.5"/>
+        <path d="M1518.2 570v-7.4"/>
+        <path d="M1518.4 522.4v-343"/>
+        <path d="M1610 908.6c0-70-91.6-14-91.6-78.6"/>
+      </g>
+    </g>
+  </g>
+  <g id="origin">
+    <g id="master1">
+      <g>
+        <g fill-opacity=".5" stroke="#000" stroke-width="2" stroke-dasharray="6 6 0 0">
+          <rect width="44.1" height="33" x="1197" y="292.8" fill="#ccc"/>
+          <path fill="#999" d="M1197 292.8l15.8-16h44l-15.8 16h-44z"/>
+          <path fill="#737373" d="M1241 325.7l16-16v-33l-16 16v33z"/>
+        </g>
+        <text x="1211" y="316.2" fill="#999" font-weight="700" font-size="20">M</text>
+      </g>
+      <path fill="none" stroke="#000" stroke-width="2" d="M1230 325.7v583"/>
+      <path fill="none" stroke="#000" stroke-width="2" d="M1230 284.8v-98.4" stroke-dasharray="4 4 0 0"/>
+      <g stroke="#000" stroke-width="2">
+        <rect width="44.1" height="33" x="1200" y="1064.2" fill="#ccc"/>
+        <path fill="#999" d="M1200 1064.2l15.8-16h44l-15.8 16h-44z"/>
+        <path fill="#737373" d="M1244 1097l16-15.8v-33l-16 16v33z"/>
+      </g>
+      <g stroke="#000" stroke-width="2">
+        <rect width="44.1" height="33" x="1200" y="1015.6" fill="#ccc"/>
+        <path fill="#999" d="M1200 1015.6l15.8-16h44l-15.8 16h-44z"/>
+        <path fill="#737373" d="M1244 1048.6l16-16v-33l-16 16v33z"/>
+      </g>
+      <g stroke="#000" stroke-width="2">
+        <rect width="44.1" height="33" x="1200" y="967.1" fill="#ccc"/>
+        <path fill="#999" d="M1200 967l15.8-15.8h44l-15.8 16h-44z"/>
+        <path fill="#737373" d="M1244 1000l16-16v-32.8l-16 16v32.8z"/>
+      </g>
+      <g stroke="#000" stroke-width="2">
+        <rect width="44.1" height="33" x="1200" y="918.6" fill="#ccc"/>
+        <path fill="#999" d="M1200 918.6l15.8-16h44l-15.8 16h-44z"/>
+        <path fill="#737373" d="M1244 951.5l16-16v-32.8l-16 16v32.8z"/>
+      </g>
+      <path fill="none" stroke="#000" stroke-width="2" d="M1230 959.2v-7.7"/>
+      <path fill="none" stroke="#000" stroke-width="2" d="M1230 1007.7v-7.7"/>
+      <path fill="none" stroke="#000" stroke-width="2" d="M1230 1056v-7.7"/>
+      <g>
+        <rect width="25.5" height="19" x="1288.7" y="977.3" fill="#0dcaf2" stroke="#000" stroke-width="2"/>
+        <text x="1294.6" y="990.5">tag</text>
+      </g>
+      <path fill="#ccc" stroke="#000" stroke-width="2" d="M1292 952.3l8.3 14.2-24.7 14.3-11-3.2 2.8-11 24.7-14.3zm-20.3 18c1.2-.6 2.8 0 3.6 1.2.7 1.3.3 3-1 3.6-1 1-2.7 1-3.5-1-.7-1-.3-3 1-3z"/>
+      <g>
+        <rect width="77" height="19" x="1191.5" y="160.4" fill="#0dcaf2" stroke="#000" stroke-width="2"/>
+        <text x="1194.6" y="173.6">branch “master”</text>
+      </g>
+    </g>
+    <g id="dev1">
+      <g>
+        <rect width="63.8" height="19" x="1144" y="355.8" fill="#0dcaf2" stroke="#000" stroke-width="2"/>
+        <text x="1149.8" y="369">pull request</text>
+      </g>
+      <g stroke="#000" stroke-width="2">
+        <rect width="43.3" height="32.3" x="1108.8" y="797.4" fill="#ccc"/>
+        <path fill="#999" d="M1108.8 797.4l15.6-15.6h43.3l-15.6 15.6h-43z"/>
+        <path fill="#737373" d="M1152 829.8l15.7-15.7v-32l-15.7 16v32z"/>
+      </g>
+      <g stroke="#000" stroke-width="2">
+        <rect width="43.3" height="32.3" x="1108.8" y="749.7" fill="#ccc"/>
+        <path fill="#999" d="M1108.8 749.7l15.6-15.6h43.3l-15.7 16h-43z"/>
+        <path fill="#737373" d="M1152 782l15.7-15.5V734l-15.6 15.7V782z"/>
+      </g>
+      <g stroke="#000" stroke-width="2">
+        <rect width="43.3" height="32.3" x="1108.8" y="702.1" fill="#ccc"/>
+        <path fill="#999" d="M1108.8 702l15.6-15.6h43.3L1152 702h-43z"/>
+        <path fill="#737373" d="M1152 734.4l15.7-15.6v-32.4L1152 702v32.4z"/>
+      </g>
+      <path fill="none" stroke="#000" stroke-width="2" d="M1230 908.6c0-70-91.6-14-91.6-78.6"/>
+      <path fill="none" stroke="#000" stroke-width="2" d="M1138.2 742v-7.6"/>
+      <path fill="none" stroke="#000" stroke-width="2" d="M1138.2 789.6V782"/>
+      <path fill="none" stroke="#000" stroke-width="2" d="M1138.2 658v36.2"/>
+      <g stroke="#000" stroke-width="2">
+        <rect width="43.3" height="32.3" x="1108.8" y="625.6" fill="#ccc"/>
+        <path fill="#999" d="M1108.8 625.6l15.6-15.6h43.3l-15.6 15.6h-43z"/>
+        <path fill="#737373" d="M1152 658l15.7-15.7V610l-15.6 15.6V658z"/>
+      </g>
+      <g stroke="#000" stroke-width="2">
+        <rect width="43.3" height="32.3" x="1108.8" y="578" fill="#ccc"/>
+        <path fill="#999" d="M1108.8 578l15.6-15.7h43.3L1152 578h-43z"/>
+        <path fill="#737373" d="M1152 610.3l15.7-15.6v-32.4L1152 578v32.3z"/>
+      </g>
+      <path fill="none" stroke="#000" stroke-width="2" d="M1138.2 617.8v-7.5"/>
+      <g stroke="#000" stroke-width="2">
+        <rect width="43.3" height="32.3" x="1108.8" y="530.3" fill="#ccc"/>
+        <path fill="#999" d="M1108.8 530.3l15.6-15.7h43.3l-15.6 15.7h-43z"/>
+        <path fill="#737373" d="M1152 562.6l15.7-15.6v-32.4l-15.6 15.7v32.3z"/>
+      </g>
+      <path fill="none" stroke="#000" stroke-width="2" d="M1138.2 570v-7.4"/>
+      <g stroke="#000" stroke-width="2">
+        <rect width="43.3" height="32.3" x="1107.7" y="482.6" fill="#ccc"/>
+        <path fill="#999" d="M1107.7 482.6l15.6-15.6h43.4l-15.7 15.6h-43.3z"/>
+        <path fill="#737373" d="M1151 515l15.7-15.7V467l-15.7 15.6V515z"/>
+      </g>
+      <path fill="none" stroke="#000" stroke-width="2" d="M1137.2 522.5V515"/>
+      <g stroke="#000" stroke-width="2">
+        <rect width="43.3" height="32.3" x="1107.7" y="435.6" fill="#ccc"/>
+        <path fill="#999" d="M1107.7 435.6l15.6-15.6h43.4l-15.7 15.6h-43.3z"/>
+        <path fill="#737373" d="M1151 468l15.7-15.7V420l-15.7 15.6V468z"/>
+      </g>
+      <path fill="none" stroke="#000" stroke-width="2" d="M1137.2 475.5V468"/>
+      <g>
+        <rect width="63.8" height="19" x="1106.5" y="160.3" fill="#0dcaf2" stroke="#000" stroke-width="2"/>
+        <text x="1110" y="173.6">branch “dev”</text>
+      </g>
+      <path fill="none" stroke="#000" stroke-width="2" d="M1138.4 425.8V179.5"/>
+      <path fill="none" stroke="#000" stroke-width="2" d="M1230 348c0 70-91.6 14-91.6 78.6" stroke-dasharray="4 4 0 0"/>
+    </g>
+    <g id="feature" stroke="#000" stroke-width="2">
+      <g fill-opacity=".4">
+        <rect width="44.1" height="33" x="1007" y="597.1" fill="#ccc"/>
+        <path fill="#999" d="M1007 597l15.8-15.8h44l-15.8 16h-44z"/>
+        <path fill="#737373" d="M1051 630l16-16v-32.8l-16 16V630z"/>
+      </g>
+      <g fill-opacity=".4">
+        <rect width="44.1" height="33" x="1007" y="535" fill="#ccc"/>
+        <path fill="#999" d="M1007 535l15.8-16h44l-15.8 16h-44z"/>
+        <path fill="#737373" d="M1051 567.8l16-16V519l-16 16v32.8z"/>
+      </g>
+      <path fill="none" d="M1138.4 695.5c0-58.4-101.5-11.6-101.5-65.5" stroke-dasharray="4 4 0 0"/>
+      <path fill="none" d="M1037 527v-21" stroke-dasharray="4 4 0 0"/>
+      <path fill="none" d="M1037 589v-20.8" stroke-dasharray="4 4 0 0"/>
+    </g>
+  </g>
+  <g id="local">
+    <g id="master2">
+      <g stroke="#000" stroke-width="2">
+        <rect width="44.1" height="33" x="820" y="1064.2" fill="#ccc"/>
+        <path fill="#999" d="M820 1064.2l15.8-16h44l-15.8 16h-44z"/>
+        <path fill="#737373" d="M864 1097l16-15.8v-33l-16 16v33z"/>
+      </g>
+      <g stroke="#000" stroke-width="2">
+        <rect width="44.1" height="33" x="820" y="1015.6" fill="#ccc"/>
+        <path fill="#999" d="M820 1015.6l15.8-16h44l-15.8 16h-44z"/>
+        <path fill="#737373" d="M864 1048.6l16-16v-33l-16 16v33z"/>
+      </g>
+      <g stroke="#000" stroke-width="2">
+        <rect width="44.1" height="33" x="820" y="967.1" fill="#ccc"/>
+        <path fill="#999" d="M820 967l15.8-15.8h44l-15.8 16h-44z"/>
+        <path fill="#737373" d="M864 1000l16-16v-32.8l-16 16v32.8z"/>
+      </g>
+      <g stroke="#000" stroke-width="2">
+        <rect width="44.1" height="33" x="820" y="918.6" fill="#ccc"/>
+        <path fill="#999" d="M820 918.6l15.8-16h44l-15.8 16h-44z"/>
+        <path fill="#737373" d="M864 951.5l16-16v-32.8l-16 16v32.8z"/>
+      </g>
+      <path fill="none" stroke="#000" stroke-width="2" d="M850 179.3v729.3"/>
+      <path fill="none" stroke="#000" stroke-width="2" d="M850 959.2v-7.7"/>
+      <path fill="none" stroke="#000" stroke-width="2" d="M850 1007.7v-7.7"/>
+      <path fill="none" stroke="#000" stroke-width="2" d="M850 1056v-7.7"/>
+      <g id="tag1">
+        <rect width="25.5" height="19" x="908.7" y="977.3" fill="#0dcaf2" stroke="#000" stroke-width="2"/>
+        <text x="914.6" y="990.5">tag</text>
+      </g>
+      <path fill="#ccc" stroke="#000" stroke-width="2" d="M912 952.3l8.3 14.2-24.7 14.3-11-3.2 2.8-11 24.7-14.3zm-20.3 18c1.2-.6 2.8 0 3.6 1.2.7 1.3.3 3-1 3.6-1 1-2.7 1-3.5-1-.7-1-.3-3 1-3z"/>
+      <g>
+        <rect width="77" height="19" x="811.5" y="160.4" fill="#0dcaf2" stroke="#000" stroke-width="2"/>
+        <text x="814.6" y="173.6">branch “master”</text>
+      </g>
+    </g>
+    <g id="dev2">
+      <g stroke="#000" stroke-width="2">
+        <rect width="43.3" height="32.3" x="728.8" y="797.4" fill="#ccc"/>
+        <path fill="#999" d="M728.8 797.4l15.6-15.6h43.3L772 797.4h-43z"/>
+        <path fill="#737373" d="M772 829.8l15.7-15.7v-32L772 798v32z"/>
+      </g>
+      <g stroke="#000" stroke-width="2">
+        <rect width="43.3" height="32.3" x="728.8" y="749.7" fill="#ccc"/>
+        <path fill="#999" d="M728.8 749.7l15.6-15.6h43.3L772 750h-43z"/>
+        <path fill="#737373" d="M772 782l15.7-15.5V734L772 749.8V782z"/>
+      </g>
+      <g stroke="#000" stroke-width="2">
+        <rect width="43.3" height="32.3" x="728.8" y="702.1" fill="#ccc"/>
+        <path fill="#999" d="M728.8 702l15.6-15.6h43.3L772 702h-43z"/>
+        <path fill="#737373" d="M772 734.4l15.7-15.6v-32.4L772 702v32.4z"/>
+      </g>
+      <path fill="none" stroke="#000" stroke-width="2" d="M850 908.6c0-70-91.6-14-91.6-78.6"/>
+      <path fill="none" stroke="#000" stroke-width="2" d="M758.2 742v-7.6"/>
+      <path fill="none" stroke="#000" stroke-width="2" d="M758.2 789.6V782"/>
+      <path fill="none" stroke="#000" stroke-width="2" d="M758.2 658v36.2"/>
+      <g stroke="#000" stroke-width="2">
+        <rect width="43.3" height="32.3" x="728.8" y="625.6" fill="#ccc"/>
+        <path fill="#999" d="M728.8 625.6l15.6-15.6h43.3L772 625.6h-43z"/>
+        <path fill="#737373" d="M772 658l15.7-15.7V610L772 625.6V658z"/>
+      </g>
+      <g stroke="#000" stroke-width="2">
+        <rect width="43.3" height="32.3" x="728.8" y="578" fill="#ccc"/>
+        <path fill="#999" d="M728.8 578l15.6-15.7h43.3L772 578h-43z"/>
+        <path fill="#737373" d="M772 610.3l15.7-15.6v-32.4L772 578v32.3z"/>
+      </g>
+      <path fill="none" stroke="#000" stroke-width="2" d="M758.2 617.8v-7.5"/>
+      <g stroke="#000" stroke-width="2">
+        <rect width="43.3" height="32.3" x="728.8" y="530.3" fill="#ccc"/>
+        <path fill="#999" d="M728.8 530.3l15.6-15.7h43.3L772 530.3h-43z"/>
+        <path fill="#737373" d="M772 562.6l15.7-15.6v-32.4L772 530.3v32.3z"/>
+      </g>
+      <path fill="none" stroke="#000" stroke-width="2" d="M758.2 570v-7.4"/>
+      <g fill-opacity=".5" stroke="#000" stroke-width="2" stroke-dasharray="6 6 0 0">
+        <rect width="43.3" height="32.3" x="727.7" y="482.6" fill="#ccc"/>
+        <path fill="#999" d="M727.7 482.6l15.6-15.6h43.4L771 482.6h-43.3z"/>
+        <path fill="#737373" d="M771 515l15.7-15.7V467L771 482.6V515z"/>
+      </g>
+      <path fill="none" stroke="#000" stroke-width="2" d="M757.2 522.5V515" stroke-dasharray="4 4 0 0"/>
+      <g fill-opacity=".5" stroke="#000" stroke-width="2" stroke-dasharray="6 6 0 0">
+        <rect width="43.3" height="32.3" x="727.7" y="435.1" fill="#ccc"/>
+        <path fill="#999" d="M727.7 435l15.6-15.5h43.4L771 435h-43.3z"/>
+        <path fill="#737373" d="M771 467.4l15.7-15.6v-32.3L771 435v32.4z"/>
+      </g>
+      <path fill="none" stroke="#000" stroke-width="2" d="M757.2 475v-7.6" stroke-dasharray="4 4 0 0"/>
+      <path fill="none" stroke="#000" stroke-width="2" d="M758.4 427.3V179.5" stroke-dasharray="4 4 0 0"/>
+      <g>
+        <rect width="63.8" height="19" x="726.5" y="160.3" fill="#0dcaf2" stroke="#000" stroke-width="2"/>
+        <text x="730" y="173.6">branch “dev”</text>
+      </g>
+    </g>
+    <g id="feature1">
+      <g stroke="#000" stroke-width="2">
+        <rect width="44.1" height="33" x="557" y="597.1" fill="#ccc"/>
+        <path fill="#999" d="M557 597l15.8-15.8h44l-15.8 16h-44z"/>
+        <path fill="#737373" d="M601 630l16-16v-32.8l-16 16V630z"/>
+      </g>
+      <g stroke="#000" stroke-width="2">
+        <rect width="44.1" height="33" x="557" y="535" fill="#ccc"/>
+        <path fill="#999" d="M557 535l15.8-16h44L601 535h-44z"/>
+        <path fill="#737373" d="M601 567.8l16-16V519l-16 16v32.8z"/>
+      </g>
+      <g fill-opacity=".5" stroke="#000" stroke-width="2" stroke-dasharray="6 6 0 0">
+        <rect width="44.1" height="33" x="557" y="472.8" fill="#ccc"/>
+        <path fill="#999" d="M557 472.8l15.8-16h44l-15.8 16h-44z"/>
+        <path fill="#737373" d="M601 505.7l16-16v-33l-16 16v33z"/>
+      </g>
+      <path fill="none" stroke="#000" stroke-width="2" d="M758.4 695.5C758.4 637 587 684 587 630"/>
+      <path fill="none" stroke="#000" stroke-width="2" d="M758.4 427.3c0-144-171.5-28.5-171.5-161.6" stroke-dasharray="4 4 0 0"/>
+      <path fill="none" stroke="#000" stroke-width="2" d="M587 527v-21" stroke-dasharray="4 4 0 0"/>
+      <g fill-opacity=".5" stroke="#000" stroke-width="2" stroke-dasharray="6 6 0 0">
+        <rect width="44.1" height="33" x="557" y="352.8" fill="#ccc"/>
+        <path fill="#999" d="M557 352.8l15.8-16h44l-15.8 16h-44z"/>
+        <path fill="#737373" d="M601 385.7l16-16v-33l-16 16v33z"/>
+      </g>
+      <path fill="none" stroke="#000" stroke-width="2" d="M587 464.8v-78" stroke-dasharray="4 4 0 0"/>
+      <g>
+        <g fill-opacity=".5" stroke="#000" stroke-width="2" stroke-dasharray="6 6 0 0">
+          <rect width="44.1" height="33" x="557" y="232.8" fill="#ccc"/>
+          <path fill="#999" d="M557 232.8l15.8-16h44l-15.8 16h-44z"/>
+          <path fill="#737373" d="M601 265.7l16-16v-33l-16 16v33z"/>
+        </g>
+        <text x="572" y="256.2" fill="#999" font-weight="700" font-size="20">M</text>
+      </g>
+      <path fill="none" stroke="#000" stroke-width="2" d="M587 344.8v-79" stroke-dasharray="4 4 0 0"/>
+      <path fill="none" stroke="#000" stroke-width="2" d="M587 224.8v-45.5" stroke-dasharray="4 4 0 0"/>
+      <path fill="none" stroke="#000" stroke-width="2" d="M587 589v-20.8"/>
+      <g>
+        <path fill="#0dcaf2" stroke="#000" stroke-width="2" d="M574.3 468h-10.7v-66h-10l15.4-15 15.3 15.2h-10V468z"/>
+        <g transform="rotate(-90 124.833 711.887)">
+          <text x="371.3" y="1159.6">revert HEAD^</text>
+        </g>
+      </g>
+      <g>
+        <path fill="#0dcaf2" stroke="#000" stroke-width="2" d="M522.6 520.6h10.7v89.7h10L528 625.6l-15.4-15.3h10v-89.7z"/>
+        <g transform="rotate(90 972.05 277.18)">
+          <text x="1218.5" y="725">reset --hard HEAD^</text>
+        </g>
+      </g>
+      <g>
+        <rect width="35.1" height="19" x="561.4" y="542.5" fill="#0dcaf2" stroke="#000" stroke-width="2"/>
+        <text x="565.1" y="555">HEAD</text>
+      </g>
+      <g>
+        <g>
+          <path fill="#0dcaf2" stroke="#000" stroke-width="2" d="M672.7 302.7v10.8H616v10L600.5 308l15.5-15v10h56.7z"/>
+        </g>
+        <text x="616.6" y="310.9">merge dev</text>
+      </g>
+      <g>
+        <g>
+          <path fill="#0dcaf2" stroke="#000" stroke-width="2" d="M737.7 674.8v10.7h-69.5v10L653 680l15-15v10h69.5z"/>
+        </g>
+        <text x="670.3" y="684">branch feature</text>
+      </g>
+      <g>
+        <path fill="#0dcaf2" stroke="#000" stroke-width="2" d="M636.3 407v11H693v10l15.3-15.4L693 397v10h-56.7z"/>
+      </g>
+      <text x="640.2" y="416.2">rebase dev</text>
+      <text x="570.2" y="493.3">+X</text>
+      <text x="570.2" y="374.5">–X</text>
+      <g>
+        <rect width="90.1" height="19" x="542" y="160.3" fill="#0dcaf2" stroke="#000" stroke-width="2"/>
+        <text x="545" y="173.5">branch “feature/…”</text>
+      </g>
+      <path fill="none" stroke="#000" stroke-width="2" d="M589 630.3c0 24.5 84.8 47.3 84.8-111.4 0-124 84.6-127 84.6-94" stroke-dasharray="4 4 0 0"/>
+      <g>
+        <path fill="#0dcaf2" stroke="#000" stroke-width="2" d="M638.8 484.7v10l-15.3-15.4 15.3-15.4v10h67.4v-10l15.3 15-15.3 15v-10h-67.4z"/>
+        <text x="652.5" y="482.5">checkout</text>
+      </g>
+    </g>
+    <g id="stage">
+      <g stroke="#000" stroke-width="2">
+        <g>
+          <rect width="42.5" height="31.8" x="369.2" y="471.1" fill="#ccc"/>
+          <path fill="#ebebeb" d="M369.2 471l15.4-15.3H427L412 471h-42.6z"/>
+          <path fill="#737373" d="M411.8 502.8l15.3-15.3v-31.8L412 471v32z"/>
+        </g>
+        <path fill="#ccc" d="M384.6 455.7l-15.4-12.2-18.8 15.5 18.8 12 15.4-15.3z"/>
+        <path fill="#ccc" d="M411.8 471l21.4-4.7 14.2-16-20.3 5.4-15 15.3z"/>
+      </g>
+      <g id="action:-commit">
+        <path fill="#0dcaf2" stroke="#000" stroke-width="2" d="M442.7 475.4v-10.7H531v-10l15 15.3-15 15.5v-10h-88.3z"/>
+        <text x="475.1" y="473.3">commit</text>
+      </g>
+      <g id="action:-reset-mixed">
+        <g>
+          <path fill="#0dcaf2" stroke="#000" stroke-width="2" d="M350 490.2V501h-67.2v10l-15.3-15.4 15.3-15.4v10h67z"/>
+        </g>
+        <text x="286.5" y="498.4">reset --mixed</text>
+      </g>
+      <g id="action:-add">
+        <g>
+          <path fill="#0dcaf2" stroke="#000" stroke-width="2" d="M267.5 475.4v-10.7h67v-10L350 470l-15.4 15.4v-10h-67z"/>
+        </g>
+        <text x="295" y="474">add</text>
+      </g>
+      <g id="action:-reset-hard">
+        <g>
+          <path fill="#0dcaf2" stroke="#000" stroke-width="2" d="M342.3 506.2l7.6 7.6-68 67.8 7 7h-22V567l7 7 67-67.8z"/>
+        </g>
+        <g transform="rotate(-45 -112.637 397.295)">
+          <text x="74.1" y="805">reset --hard</text>
+        </g>
+      </g>
+      <g id="action:-reset-soft">
+        <g>
+          <path fill="#0dcaf2" stroke="#000" stroke-width="2" d="M546.2 490.2V501H458v10l-15.3-15.4 15.3-15.4v10h88.2z"/>
+        </g>
+        <text x="460.3" y="499.4">reset --soft HEAD^</text>
+      </g>
+      <g id="stage1">
+        <rect width="35.1" height="19" x="373" y="477" fill="#0dcaf2" stroke="#000" stroke-width="2"/>
+        <text x="378.3" y="489.1">stage</text>
+      </g>
+    </g>
+    <g id="working-dir">
+      <g id="no-changes">
+        <path fill="#94f20d" stroke="#000" stroke-width="2" d="M208.2 587.5c0-2.3 3.7-4 8.2-4 4.5 0 8.2 1.7 8.2 4 2.2-2 7.2-2.7 11-1.5 4 1 5.4 3.7 3 5.7 4-1.2 9-.5 11.3 1.5 2 2 0 4.5-3 5.7 4 0 8 1 8 4s-4 4-8 4c3 1 5 3 3 5-3 2-8 2-12 1 2 2 1 4.4-3 5.6-4 1-9 .4-11-1.5 0 2.3-4 4-9 4s-8-1.7-8-4c-2 2-7 2.6-11 1.5-4-1-5.5-3.6-3-5.6-4 1-9 .5-11.4-1.5-2.3-2-1-4.8 3-6-4.6 0-8.3-2-8.3-4 0-2.4 3.7-4 8.2-4-4-1.4-5.4-4-3-6 2-2 7-2.6 11-1.4-2.3-2-1-4.5 3-5.6 4-1.4 9-.7 11 1.3z"/>
+        <text x="190.5" y="605.6">no changes</text>
+      </g>
+      <g id="changes">
+        <path fill="#e5f20d" stroke="#000" stroke-width="2" d="M208.2 467.4c0-2.3 3.7-4.2 8.2-4.2 4.5 0 8.2 2 8.2 4.2 2.2-2 7.2-2.7 11-1.6 4 1.2 5.4 3.7 3 5.7 4-1 9-.4 11.3 1.5 2 2 0 4.6-3 5.7 4 0 8 2 8 4.2s-4 4-8 4c3 1 5 3 3 5-3 2-8 2-12 1 2 2 1 4.4-3 5.5-4 1-9 .4-11-1.6 0 2.3-4 4.2-9 4.2s-8-2-8-4.3c-2 2-7 3-11 1.6-4-1-5.5-3.8-3-5.8-4 1-9 0-11.4-2-2.3-2-1-4.4 3-5.6-4.6 0-8.3-2-8.3-4 0-2.5 3.7-4.4 8.2-4.4-4-1-5.4-3.5-3-5.5 2-2 7-2.3 11-1.2-2.3-2-1-4.4 3-5.6 4-1 9-.3 11 1.7z"/>
+        <text x="197.5" y="485.4">changes</text>
+      </g>
+      <g id="work">
+        <path fill="#e5f20d" stroke="#000" stroke-width="2" d="M250 581.3h-8.5v-58l-8 7.8v-12l12.2-12 12 12v12l-7.7-7v58z"/>
+        <g transform="rotate(-90 -123.492 677.054)">
+          <text x="7" y="1049.1" font-style="italic">work</text>
+        </g>
+      </g>
+      <g id="action:-checkout">
+        <path fill="#0dcaf2" stroke="#000" stroke-width="2" d="M215.8 507h10.8v59.3h10L221 581.7l-15.4-15.4h10V507z"/>
+        <g transform="rotate(90 665.648 265.114)">
+          <text x="912.1" y="712.8">checkout</text>
+        </g>
+      </g>
+      <g id="action:-reset">
+        <path fill="#0dcaf2" stroke="#000" stroke-width="2" d="M181.8 507h10.8v59.3h10L187 581.7l-15.4-15.4h10V507z"/>
+        <g transform="rotate(90 631.648 265.114)">
+          <text x="878.1" y="712.8">reset --hard</text>
+        </g>
+      </g>
+    </g>
+    <g id="stash">
+      <g stroke="#000" stroke-width="2">
+        <rect width="44.1" height="33" x="20.5" y="555.4" fill="#ccc"/>
+        <path fill="#999" d="M20.5 555.4l16-16h44l-16 16h-44z"/>
+        <path fill="#737373" d="M64.6 588.3l16-16v-32.8l-16 16v32.8z"/>
+      </g>
+      <g stroke="#000" stroke-width="2">
+        <rect width="44.1" height="33" x="20.5" y="514" fill="#ccc"/>
+        <path fill="#999" d="M20.5 514l16-16h44l-16 16h-44z"/>
+        <path fill="#737373" d="M64.6 547l16-16v-33l-16 16v33z"/>
+      </g>
+      <g stroke="#000" stroke-width="2">
+        <g>
+          <rect width="42.6" height="32.3" x="21.8" y="471" fill="#ccc"/>
+          <path fill="#ebebeb" d="M21.8 471l15.4-15.6h42.5L64.4 471H21.8z"/>
+          <path fill="#737373" d="M64.4 503.4l15.3-15.7v-32.3L64.4 471v32.4z"/>
+        </g>
+        <path fill="#ccc" d="M37.2 455.4L21.8 443 3 458.7 21.8 471l15.4-15.6z"/>
+        <path fill="#ccc" d="M64.4 471l21.5-4.8 14-16.2-21 5.4L64 471z"/>
+      </g>
+      <g id="action:-stash">
+        <g>
+          <path fill="#0dcaf2" stroke="#000" stroke-width="2" d="M167.5 464.7v10.7h-56.7v10L95.4 470l15.4-15.3v10h56.7z"/>
+        </g>
+        <text x="126.3" y="473.8">stash</text>
+      </g>
+      <g id="action:-pop">
+        <g>
+          <path fill="#0dcaf2" stroke="#000" stroke-width="2" d="M95.5 501v-11h56.7v-10l15.3 15.4-15.3 15.3v-10H95.5z"/>
+        </g>
+        <text x="103.1" y="498.3">pop/apply</text>
+      </g>
+    </g>
+  </g>
+  <g id="pull-and-push">
+    <g id="pull">
+      <path id="action:-pull" fill="#0dcaf2" stroke="#000" stroke-width="2" d="M1078.7 457.5v10.8H821.4v10L806 462.8l15.4-15.4v10h257.3z"/>
+      <text x="906.6" y="466">pull / fetch + merge</text>
+    </g>
+    <g id="push">
+      <path id="action:-push" fill="#0dcaf2" stroke="#000" stroke-width="2" d="M642.7 635.8H632v-129h10.7v59H975V556l15.2 15.3-15.3 15.3v-10H642V636z"/>
+      <text x="897" y="575.7">push</text>
+    </g>
+  </g>
+  <g id="remote-and-local">
+    <g>
+      <rect width="63.8" height="19" x="1313" y="8" fill="#0dcaf2" stroke="#000" stroke-width="2"/>
+      <text x="1326.8" y="21.2">remotes</text>
+    </g>
+    <g>
+      <rect width="63.8" height="19" x="420.4" y="8" fill="#0dcaf2" stroke="#000" stroke-width="2"/>
+      <text x="442.1" y="21.2">local</text>
+    </g>
+    <g>
+      <rect width="83.1" height="19" x="1188.3" y="74.8" fill="#0dcaf2" stroke="#000" stroke-width="2"/>
+      <text x="1197.4" y="88">remote “origin”</text>
+    </g>
+    <g>
+      <rect width="83.1" height="19" x="1568.3" y="74.8" fill="#0dcaf2" stroke="#000" stroke-width="2"/>
+      <text x="1576.5" y="88">remote “mirror”</text>
+    </g>
+    <g>
+      <path fill="#0dcaf2" stroke="#000" stroke-width="2" d="M998.2 13v10.7h-56.7v10l-15.3-15.4L941.5 3v10h56.7z"/>
+    </g>
+    <text x="956.1" y="21.2">clone</text>
+    <path fill="none" stroke="#000" stroke-width="2" d="M988.3 120V38.4h706V120"/>
+    <path fill="none" stroke="#000" stroke-width="2" d="M941.4 120V38.4H3V120"/>
+  </g>
+</svg>
