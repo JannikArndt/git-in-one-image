@@ -4,7 +4,7 @@
   <g id="mirror">
     <g id="master">
       <g id="header">
-        <rect width="77" height="19" x="1571.5" y="160.4" fill="#0dcaf2" stroke="#000" stroke-width="2"/>
+        <rect width="77" height="19" x="1571.5" y="160.4" fill="#aae9ff" stroke="#000" stroke-width="2"/>
         <text x="1575" y="173.6">branch “master”</text>
       </g>
       <g id="commits" stroke="#000" stroke-width="2">
@@ -31,7 +31,7 @@
       </g>
       <g id="tag">
         <g>
-          <rect width="25.5" height="19" x="1668.7" y="977.3" fill="#0dcaf2" stroke="#000" stroke-width="2"/>
+          <rect width="25.5" height="19" x="1668.7" y="977.3" fill="#aae9ff" stroke="#000" stroke-width="2"/>
           <text x="1674.6" y="990.5">tag</text>
         </g>
         <path fill="#ccc" stroke="#000" stroke-width="2" d="M1672 952.3l8.3 14.2-24.7 14.3-11-3.2 2.8-11 24.7-14.3zm-20.3 18c1.2-.6 2.8 0 3.6 1.2.7 1.3.3 3-1 3.6-1 1-2.7 1-3.5-1-.7-1-.3-3 1-3z"/>
@@ -45,7 +45,7 @@
     </g>
     <g id="dev">
       <g id="header1">
-        <rect width="63.8" height="19" x="1486.5" y="160.3" fill="#0dcaf2" stroke="#000" stroke-width="2"/>
+        <rect width="63.8" height="19" x="1486.5" y="160.3" fill="#aae9ff" stroke="#000" stroke-width="2"/>
         <text x="1490" y="173.6">branch “dev”</text>
       </g>
       <g id="commits1" stroke="#000" stroke-width="2">
@@ -127,18 +127,18 @@
       <path fill="none" stroke="#000" stroke-width="2" d="M1230 1007.7v-7.7"/>
       <path fill="none" stroke="#000" stroke-width="2" d="M1230 1056v-7.7"/>
       <g>
-        <rect width="25.5" height="19" x="1288.7" y="977.3" fill="#0dcaf2" stroke="#000" stroke-width="2"/>
+        <rect width="25.5" height="19" x="1288.7" y="977.3" fill="#aae9ff" stroke="#000" stroke-width="2"/>
         <text x="1294.6" y="990.5">tag</text>
       </g>
       <path fill="#ccc" stroke="#000" stroke-width="2" d="M1292 952.3l8.3 14.2-24.7 14.3-11-3.2 2.8-11 24.7-14.3zm-20.3 18c1.2-.6 2.8 0 3.6 1.2.7 1.3.3 3-1 3.6-1 1-2.7 1-3.5-1-.7-1-.3-3 1-3z"/>
       <g>
-        <rect width="77" height="19" x="1191.5" y="160.4" fill="#0dcaf2" stroke="#000" stroke-width="2"/>
+        <rect width="77" height="19" x="1191.5" y="160.4" fill="#aae9ff" stroke="#000" stroke-width="2"/>
         <text x="1194.6" y="173.6">branch “master”</text>
       </g>
     </g>
     <g id="dev1">
       <g>
-        <rect width="63.8" height="19" x="1144" y="355.8" fill="#0dcaf2" stroke="#000" stroke-width="2"/>
+        <rect width="63.8" height="19" x="1144" y="355.8" fill="#aae9ff" stroke="#000" stroke-width="2"/>
         <text x="1149.8" y="369">pull request</text>
       </g>
       <g stroke="#000" stroke-width="2">
@@ -190,7 +190,7 @@
       </g>
       <path fill="none" stroke="#000" stroke-width="2" d="M1137.2 475.5V468"/>
       <g>
-        <rect width="63.8" height="19" x="1106.5" y="160.3" fill="#0dcaf2" stroke="#000" stroke-width="2"/>
+        <rect width="63.8" height="19" x="1106.5" y="160.3" fill="#aae9ff" stroke="#000" stroke-width="2"/>
         <text x="1110" y="173.6">branch “dev”</text>
       </g>
       <path fill="none" stroke="#000" stroke-width="2" d="M1138.4 425.8V179.5"/>
@@ -239,12 +239,12 @@
       <path fill="none" stroke="#000" stroke-width="2" d="M850 1007.7v-7.7"/>
       <path fill="none" stroke="#000" stroke-width="2" d="M850 1056v-7.7"/>
       <g id="tag1">
-        <rect width="25.5" height="19" x="908.7" y="977.3" fill="#0dcaf2" stroke="#000" stroke-width="2"/>
+        <rect width="25.5" height="19" x="908.7" y="977.3" fill="#aae9ff" stroke="#000" stroke-width="2"/>
         <text x="914.6" y="990.5">tag</text>
       </g>
       <path fill="#ccc" stroke="#000" stroke-width="2" d="M912 952.3l8.3 14.2-24.7 14.3-11-3.2 2.8-11 24.7-14.3zm-20.3 18c1.2-.6 2.8 0 3.6 1.2.7 1.3.3 3-1 3.6-1 1-2.7 1-3.5-1-.7-1-.3-3 1-3z"/>
       <g>
-        <rect width="77" height="19" x="811.5" y="160.4" fill="#0dcaf2" stroke="#000" stroke-width="2"/>
+        <rect width="77" height="19" x="811.5" y="160.4" fill="#aae9ff" stroke="#000" stroke-width="2"/>
         <text x="814.6" y="173.6">branch “master”</text>
       </g>
     </g>
@@ -299,7 +299,7 @@
       <path fill="none" stroke="#000" stroke-width="2" d="M757.2 475v-7.6" stroke-dasharray="4 4 0 0"/>
       <path fill="none" stroke="#000" stroke-width="2" d="M758.4 427.3V179.5" stroke-dasharray="4 4 0 0"/>
       <g>
-        <rect width="63.8" height="19" x="726.5" y="160.3" fill="#0dcaf2" stroke="#000" stroke-width="2"/>
+        <rect width="63.8" height="19" x="726.5" y="160.3" fill="#aae9ff" stroke="#000" stroke-width="2"/>
         <text x="730" y="173.6">branch “dev”</text>
       </g>
     </g>
@@ -340,46 +340,46 @@
       <path fill="none" stroke="#000" stroke-width="2" d="M587 224.8v-45.5" stroke-dasharray="4 4 0 0"/>
       <path fill="none" stroke="#000" stroke-width="2" d="M587 589v-20.8"/>
       <g>
-        <path fill="#0dcaf2" stroke="#000" stroke-width="2" d="M574.3 468h-10.7v-66h-10l15.4-15 15.3 15.2h-10V468z"/>
+        <path fill="#aae9ff" stroke="#000" stroke-width="2" d="M574.3 468h-10.7v-66h-10l15.4-15 15.3 15.2h-10V468z"/>
         <g transform="rotate(-90 124.833 711.887)">
           <text x="371.3" y="1159.6">revert HEAD^</text>
         </g>
       </g>
       <g>
-        <path fill="#0dcaf2" stroke="#000" stroke-width="2" d="M522.6 520.6h10.7v89.7h10L528 625.6l-15.4-15.3h10v-89.7z"/>
+        <path fill="#aae9ff" stroke="#000" stroke-width="2" d="M522.6 520.6h10.7v89.7h10L528 625.6l-15.4-15.3h10v-89.7z"/>
         <g transform="rotate(90 972.05 277.18)">
           <text x="1218.5" y="725">reset --hard HEAD^</text>
         </g>
       </g>
       <g>
-        <rect width="35.1" height="19" x="561.4" y="542.5" fill="#0dcaf2" stroke="#000" stroke-width="2"/>
+        <rect width="35.1" height="19" x="561.4" y="542.5" fill="#aae9ff" stroke="#000" stroke-width="2"/>
         <text x="565.1" y="555">HEAD</text>
       </g>
       <g>
         <g>
-          <path fill="#0dcaf2" stroke="#000" stroke-width="2" d="M672.7 302.7v10.8H616v10L600.5 308l15.5-15v10h56.7z"/>
+          <path fill="#aae9ff" stroke="#000" stroke-width="2" d="M672.7 302.7v10.8H616v10L600.5 308l15.5-15v10h56.7z"/>
         </g>
         <text x="616.6" y="310.9">merge dev</text>
       </g>
       <g>
         <g>
-          <path fill="#0dcaf2" stroke="#000" stroke-width="2" d="M737.7 674.8v10.7h-69.5v10L653 680l15-15v10h69.5z"/>
+          <path fill="#aae9ff" stroke="#000" stroke-width="2" d="M737.7 674.8v10.7h-69.5v10L653 680l15-15v10h69.5z"/>
         </g>
         <text x="670.3" y="684">branch feature</text>
       </g>
       <g>
-        <path fill="#0dcaf2" stroke="#000" stroke-width="2" d="M636.3 407v11H693v10l15.3-15.4L693 397v10h-56.7z"/>
+        <path fill="#aae9ff" stroke="#000" stroke-width="2" d="M636.3 407v11H693v10l15.3-15.4L693 397v10h-56.7z"/>
       </g>
       <text x="640.2" y="416.2">rebase dev</text>
       <text x="570.2" y="493.3">+X</text>
       <text x="570.2" y="374.5">–X</text>
       <g>
-        <rect width="90.1" height="19" x="542" y="160.3" fill="#0dcaf2" stroke="#000" stroke-width="2"/>
+        <rect width="90.1" height="19" x="542" y="160.3" fill="#aae9ff" stroke="#000" stroke-width="2"/>
         <text x="545" y="173.5">branch “feature/…”</text>
       </g>
       <path fill="none" stroke="#000" stroke-width="2" d="M589 630.3c0 24.5 84.8 47.3 84.8-111.4 0-124 84.6-127 84.6-94" stroke-dasharray="4 4 0 0"/>
       <g>
-        <path fill="#0dcaf2" stroke="#000" stroke-width="2" d="M638.8 484.7v10l-15.3-15.4 15.3-15.4v10h67.4v-10l15.3 15-15.3 15v-10h-67.4z"/>
+        <path fill="#aae9ff" stroke="#000" stroke-width="2" d="M638.8 484.7v10l-15.3-15.4 15.3-15.4v10h67.4v-10l15.3 15-15.3 15v-10h-67.4z"/>
         <text x="652.5" y="482.5">checkout</text>
       </g>
     </g>
@@ -394,24 +394,24 @@
         <path fill="#ccc" d="M411.8 471l21.4-4.7 14.2-16-20.3 5.4-15 15.3z"/>
       </g>
       <g id="action:-commit">
-        <path fill="#0dcaf2" stroke="#000" stroke-width="2" d="M442.7 475.4v-10.7H531v-10l15 15.3-15 15.5v-10h-88.3z"/>
+        <path fill="#aae9ff" stroke="#000" stroke-width="2" d="M442.7 475.4v-10.7H531v-10l15 15.3-15 15.5v-10h-88.3z"/>
         <text x="475.1" y="473.3">commit</text>
       </g>
       <g id="action:-reset-mixed">
         <g>
-          <path fill="#0dcaf2" stroke="#000" stroke-width="2" d="M350 490.2V501h-67.2v10l-15.3-15.4 15.3-15.4v10h67z"/>
+          <path fill="#aae9ff" stroke="#000" stroke-width="2" d="M350 490.2V501h-67.2v10l-15.3-15.4 15.3-15.4v10h67z"/>
         </g>
         <text x="286.5" y="498.4">reset --mixed</text>
       </g>
       <g id="action:-add">
         <g>
-          <path fill="#0dcaf2" stroke="#000" stroke-width="2" d="M267.5 475.4v-10.7h67v-10L350 470l-15.4 15.4v-10h-67z"/>
+          <path fill="#aae9ff" stroke="#000" stroke-width="2" d="M267.5 475.4v-10.7h67v-10L350 470l-15.4 15.4v-10h-67z"/>
         </g>
         <text x="295" y="474">add</text>
       </g>
       <g id="action:-reset-hard">
         <g>
-          <path fill="#0dcaf2" stroke="#000" stroke-width="2" d="M342.3 506.2l7.6 7.6-68 67.8 7 7h-22V567l7 7 67-67.8z"/>
+          <path fill="#aae9ff" stroke="#000" stroke-width="2" d="M342.3 506.2l7.6 7.6-68 67.8 7 7h-22V567l7 7 67-67.8z"/>
         </g>
         <g transform="rotate(-45 -112.637 397.295)">
           <text x="74.1" y="805">reset --hard</text>
@@ -419,12 +419,12 @@
       </g>
       <g id="action:-reset-soft">
         <g>
-          <path fill="#0dcaf2" stroke="#000" stroke-width="2" d="M546.2 490.2V501H458v10l-15.3-15.4 15.3-15.4v10h88.2z"/>
+          <path fill="#aae9ff" stroke="#000" stroke-width="2" d="M546.2 490.2V501H458v10l-15.3-15.4 15.3-15.4v10h88.2z"/>
         </g>
         <text x="460.3" y="499.4">reset --soft HEAD^</text>
       </g>
       <g id="stage1">
-        <rect width="35.1" height="19" x="373" y="477" fill="#0dcaf2" stroke="#000" stroke-width="2"/>
+        <rect width="35.1" height="19" x="373" y="477" fill="#aae9ff" stroke="#000" stroke-width="2"/>
         <text x="378.3" y="489.1">stage</text>
       </g>
     </g>
@@ -444,13 +444,13 @@
         </g>
       </g>
       <g id="action:-checkout">
-        <path fill="#0dcaf2" stroke="#000" stroke-width="2" d="M215.8 507h10.8v59.3h10L221 581.7l-15.4-15.4h10V507z"/>
+        <path fill="#aae9ff" stroke="#000" stroke-width="2" d="M215.8 507h10.8v59.3h10L221 581.7l-15.4-15.4h10V507z"/>
         <g transform="rotate(90 665.648 265.114)">
           <text x="912.1" y="712.8">checkout</text>
         </g>
       </g>
       <g id="action:-reset">
-        <path fill="#0dcaf2" stroke="#000" stroke-width="2" d="M181.8 507h10.8v59.3h10L187 581.7l-15.4-15.4h10V507z"/>
+        <path fill="#aae9ff" stroke="#000" stroke-width="2" d="M181.8 507h10.8v59.3h10L187 581.7l-15.4-15.4h10V507z"/>
         <g transform="rotate(90 631.648 265.114)">
           <text x="878.1" y="712.8">reset --hard</text>
         </g>
@@ -478,13 +478,13 @@
       </g>
       <g id="action:-stash">
         <g>
-          <path fill="#0dcaf2" stroke="#000" stroke-width="2" d="M167.5 464.7v10.7h-56.7v10L95.4 470l15.4-15.3v10h56.7z"/>
+          <path fill="#aae9ff" stroke="#000" stroke-width="2" d="M167.5 464.7v10.7h-56.7v10L95.4 470l15.4-15.3v10h56.7z"/>
         </g>
         <text x="126.3" y="473.8">stash</text>
       </g>
       <g id="action:-pop">
         <g>
-          <path fill="#0dcaf2" stroke="#000" stroke-width="2" d="M95.5 501v-11h56.7v-10l15.3 15.4-15.3 15.3v-10H95.5z"/>
+          <path fill="#aae9ff" stroke="#000" stroke-width="2" d="M95.5 501v-11h56.7v-10l15.3 15.4-15.3 15.3v-10H95.5z"/>
         </g>
         <text x="103.1" y="498.3">pop/apply</text>
       </g>
@@ -492,33 +492,33 @@
   </g>
   <g id="pull-and-push">
     <g id="pull">
-      <path id="action:-pull" fill="#0dcaf2" stroke="#000" stroke-width="2" d="M1078.7 457.5v10.8H821.4v10L806 462.8l15.4-15.4v10h257.3z"/>
+      <path id="action:-pull" fill="#aae9ff" stroke="#000" stroke-width="2" d="M1078.7 457.5v10.8H821.4v10L806 462.8l15.4-15.4v10h257.3z"/>
       <text x="906.6" y="466">pull / fetch + merge</text>
     </g>
     <g id="push">
-      <path id="action:-push" fill="#0dcaf2" stroke="#000" stroke-width="2" d="M642.7 635.8H632v-129h10.7v59H975V556l15.2 15.3-15.3 15.3v-10H642V636z"/>
+      <path id="action:-push" fill="#aae9ff" stroke="#000" stroke-width="2" d="M642.7 635.8H632v-129h10.7v59H975V556l15.2 15.3-15.3 15.3v-10H642V636z"/>
       <text x="897" y="575.7">push</text>
     </g>
   </g>
   <g id="remote-and-local">
     <g>
-      <rect width="63.8" height="19" x="1313" y="8" fill="#0dcaf2" stroke="#000" stroke-width="2"/>
+      <rect width="63.8" height="19" x="1313" y="8" fill="#aae9ff" stroke="#000" stroke-width="2"/>
       <text x="1326.8" y="21.2">remotes</text>
     </g>
     <g>
-      <rect width="63.8" height="19" x="420.4" y="8" fill="#0dcaf2" stroke="#000" stroke-width="2"/>
+      <rect width="63.8" height="19" x="420.4" y="8" fill="#aae9ff" stroke="#000" stroke-width="2"/>
       <text x="442.1" y="21.2">local</text>
     </g>
     <g>
-      <rect width="83.1" height="19" x="1188.3" y="74.8" fill="#0dcaf2" stroke="#000" stroke-width="2"/>
+      <rect width="83.1" height="19" x="1188.3" y="74.8" fill="#aae9ff" stroke="#000" stroke-width="2"/>
       <text x="1197.4" y="88">remote “origin”</text>
     </g>
     <g>
-      <rect width="83.1" height="19" x="1568.3" y="74.8" fill="#0dcaf2" stroke="#000" stroke-width="2"/>
+      <rect width="83.1" height="19" x="1568.3" y="74.8" fill="#aae9ff" stroke="#000" stroke-width="2"/>
       <text x="1576.5" y="88">remote “mirror”</text>
     </g>
     <g>
-      <path fill="#0dcaf2" stroke="#000" stroke-width="2" d="M998.2 13v10.7h-56.7v10l-15.3-15.4L941.5 3v10h56.7z"/>
+      <path fill="#aae9ff" stroke="#000" stroke-width="2" d="M998.2 13v10.7h-56.7v10l-15.3-15.4L941.5 3v10h56.7z"/>
     </g>
     <text x="956.1" y="21.2">clone</text>
     <path fill="none" stroke="#000" stroke-width="2" d="M988.3 120V38.4h706V120"/>
